@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashu562025
+- 👋 Hi, I’m @AshuPc
 - 👀 I’m interested in python, java, web development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
